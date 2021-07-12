@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "247497793506",
+    "project_id": "linca-d342d",
+    "storage_bucket": "linca-d342d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247497793506:android:1fc316711223d3b4a4a3bb",
+        "android_client_info": {
+          "package_name": "com.example.linca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247497793506-hbfobsj2fblpqplbkshgf4fdfe51emqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.linca",
+            "certificate_hash": "5d79dd3d8498204129dc0bd6fc7081502b0744b8"
+          }
+        },
+        {
+          "client_id": "247497793506-5hl2eercn7sbvu58thh78m66n0s5ib6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_ghAW5n0POC9F5qXhI7XG-9bdoyG36YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247497793506-5hl2eercn7sbvu58thh78m66n0s5ib6f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

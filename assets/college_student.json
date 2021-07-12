@@ -1,0 +1,56 @@
+[
+  {
+    "id": "12180063",
+    "name": "Thinley Yoezer",
+    "cid": "12130032123",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "17231232",
+    "blood group": "A+"
+  },
+  {
+    "id": "12180050",
+    "name": "Tandin Gyeltshen",
+    "cid": "12130032123",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "17231232",
+    "blood group": "B+"
+  },
+  {
+    "id": "12170065",
+    "name": "Ugyen Dorji",
+    "cid": "11212390876",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "77432123",
+    "blood group": "AB+"
+  },
+  {
+    "id": "12180060",
+    "name": "Tenzin Om",
+    "cid": "11093243234",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "17898712",
+    "blood group": "A+"
+  },
+  {
+    "id": "12180066",
+    "name": "Tshering Dema",
+    "cid": "11400323200",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "77232312",
+    "blood group": "A+"
+  },
+  {
+    "id": "12190097",
+    "name": "Tshering Penjor",
+    "cid": "114890987834",
+    "college": "GCIT",
+    "year": "3rd year",
+    "phone": "17679087",
+    "blood group": "A+"
+  }
+]
